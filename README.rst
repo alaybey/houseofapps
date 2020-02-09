@@ -6,7 +6,7 @@ Run with docker/docker-compose
 
 ::
 
-docker-compose up --build
+  docker-compose up --build
 
 Then::
 
@@ -14,8 +14,8 @@ Run without docker
 ------------------
 
 ::
-cd nasaui
-python manage.py runserver
+  cd nasaui
+  python manage.py runserver
 Then::
 
 ''python'' command default version must be ''3''
