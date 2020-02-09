@@ -19,6 +19,12 @@ Run without docker
 
 ``python`` command default version must be ``3``
 
+Then:
+::
+  localhost:8000
+  or
+  0.0.0.0:8000
+ 
 
 
 If you want login directly (no register)::
