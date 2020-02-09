@@ -14,11 +14,13 @@ Run without docker
 ------------------
 
 ::
+  
   cd nasaui
   python manage.py runserver
+''python'' command default version must be ''3''
+
 Then::
 
-''python'' command default version must be ''3''
 
 If you want login directly (no register):
 Username: ''test''
