@@ -8,7 +8,7 @@ Run with docker/docker-compose
 
   docker-compose up --build
 
-Then::
+:
 
 Run without docker
 ------------------
