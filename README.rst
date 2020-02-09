@@ -21,7 +21,8 @@ Run without docker
 
 
 
-If you want login directly (no register):
-Username: ''test''
-Password: ''test''
+If you want login directly (no register)::
+
+Username: ``test``
+Password: ``test``
 
