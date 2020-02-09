@@ -1,4 +1,4 @@
-This project was built for HouseOfApps by Ibrahim Alaybeyi
+This task was built for HouseOfApps by Ibrahim Alaybeyi
 
 
 Run with docker/docker-compose
