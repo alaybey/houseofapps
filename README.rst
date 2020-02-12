@@ -15,6 +15,7 @@ Run without docker
 ::
   
   cd nasaui
+  python manage.py migrate
   python manage.py runserver
 
 ``python`` command default version must be ``3``
