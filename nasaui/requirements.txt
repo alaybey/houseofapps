@@ -1,4 +1,4 @@
-cryptography==2.6.1
+cryptography==3.2
 decorator==4.4.0
 Django==3.0.7
 django-six==1.0.4
