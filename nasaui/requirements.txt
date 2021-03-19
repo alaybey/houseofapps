@@ -2,7 +2,7 @@ cryptography==2.6.1
 decorator==4.4.0
 Django==3.0.7
 django-six==1.0.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 pid==2.2.3
 ply==3.11
 requests==2.22.0
