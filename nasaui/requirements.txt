@@ -8,4 +8,4 @@ ply==3.11
 requests==2.22.0
 requests-file==1.4.3
 requests-ftp==0.3.1
-urllib3==1.25.7
+urllib3==1.25.8
